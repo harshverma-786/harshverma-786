@@ -52,12 +52,6 @@ AI model for detecting manipulated and deepfake media content.
 
 ---
 
-## 📈 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshverma-786&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/harshverma-786
